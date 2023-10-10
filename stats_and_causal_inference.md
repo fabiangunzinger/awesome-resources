@@ -39,6 +39,8 @@
 
 ## Maths and stats foundations
 
+- [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/) -- an awesome resource do help you undertand some fundamental results.
+
 - [Mathematical biostats bootcamp](https://www.coursera.org/learn/biostatistics) (highly recommended by Erin Shellman: 'Don’t spend too much of your time watching the lectures.  Instead test yourself with the quizzes and assignments and watch the videos in areas where you are weak.')
 
 - Aim: very strong foundations of basic frequentist stats (incl. linear regression) and ability to perform basic tasks in Python (use my mathematical stats book as basis as well as Casella and Berger)
