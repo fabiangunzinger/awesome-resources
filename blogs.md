@@ -4,6 +4,12 @@
 
 - [Facebook data science research](https://research.fb.com/publications/)
 
+- [Marton Trencseni](https://bytepawn.com/tag/ab-testing.html) -- great material on A/B testing
+
+- [Lukas Vermeer](https://www.lukasvermeer.nl/publications/) -- great posts on A/B testing
+
+- [Ethan Rosenthal blog](https://www.ethanrosenthal.com/#blog)
+
 - [Matteo Courthoud](https://matteocourthoud.github.io/) -- data science, causal inference, statistics
 
 - [Brady Neal](https://www.bradyneal.com/) -- ml and causal inference

@@ -30,7 +30,11 @@
 
 ## Books (online)
 
+- [Alex Deng book](https://alexdeng.github.io/causal/)
+
 - [Causal Inference for the brave and true](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+
+- [Causal inference what if](https://www.hsph.harvard.edu/wp-content/uploads/sites/1268/2023/02/hernanrobins_WhatIf_7feb23.pdf)
 
 
 ## Experiments
@@ -51,6 +55,8 @@
 
 
 ## Causal analysis (quasi-experimental)
+
+- [Machine learning and econometrics course by Athen and Imbens](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) 
 
 - [EconML by Microsoft](https://github.com/microsoft/EconML)
 
@@ -95,6 +101,8 @@
 
 
 ## Machine learning
+
+- [MLU-ExplAIn](https://mlu-explain.github.io/) -- unbelieveably good explanations and visualisations of core ML concepts (including linear regression)
 
 - Intro to statistical learning (with applications in Python)
 

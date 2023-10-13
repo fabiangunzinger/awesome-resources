@@ -1,5 +1,9 @@
 # Programming and computer science resources
 
+## Great general learning resources
+
+- Upcase [trails](https://thoughtbot.com/upcase/practice) -- awesome courses Git, vim, tmux, REGEX, and more.
+
 
 ## Blogging and making slides from Notebooks
 
@@ -45,7 +49,7 @@
 
 - [Computer science: an overview](https://www.amazon.co.uk/Computer-Science-Overview-Glenn-Brookshear/dp/0133760065)
 
-- [Statistical computing](https://36-750.github.io)
+- [CMU Statistical computing](https://36-750.github.io/)
 
 - [Khan Academy computing](https://www.khanacademy.org/computing)
 
@@ -160,13 +164,12 @@
 - [Clean code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 
-## Python useful packages
+## Data
 
 - pandas-datareader: for direct data download from OECD, FRED, stock market data, etc.
 
 - [Financial data from Quandl](https://www.quandl.com/tools/python)
 
-- [Let's plot -- ggplot in Python](https://lets-plot.org)
 
 
 ## R
@@ -220,7 +223,7 @@
 
 ## Visualisations
 
-- [Rebecca Barter](http://www.rebeccabarter.com/blog/)
+- [Let's plot -- ggplot in Python](https://lets-plot.org)
 
 - [Fundamentals of data visualization](https://serialmentor.com/dataviz/)
 
