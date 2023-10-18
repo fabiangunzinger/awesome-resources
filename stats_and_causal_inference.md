@@ -1,5 +1,11 @@
 # Statistics and causal inference resources
 
+
+## General resources
+
+- [Stanford online](https://online.stanford.edu)
+
+
 ## Bayesian stats
 
 - [Bayesian stats for hackers - looks great](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
