@@ -4,6 +4,8 @@
 
 - Upcase [trails](https://thoughtbot.com/upcase/practice) -- awesome courses Git, vim, tmux, REGEX, and more.
 
+- [Stanford online](https://online.stanford.edu)
+
 
 ## Blogging and making slides from Notebooks
 
