@@ -3,6 +3,8 @@
 
 ## General resources
 
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) -- awesome videos that provide a clear visual intuition behind math concepts, with excellent series on linear algebra and other topics.
+
 - [Stanford online](https://online.stanford.edu)
 
 
