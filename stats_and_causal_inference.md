@@ -85,25 +85,13 @@
 - [DiD reading group where key authors present their own work -- Goodman-Bacon talk is awesome](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)
 
 
-## Foundations in maths and stats
-
-- [Mathematical biostats bootcamp](https://www.coursera.org/learn/biostatistics) (highly recommended by Erin Shellman: 'Don’t spend too much of your time watching the lectures.  Instead test yourself with the quizzes and assignments and watch the videos in areas where you are weak.')
-
-- Aim: very strong foundations of basic frequentist stats (incl. linear regression) and ability to perform basic tasks in Python (use my mathematical stats book as basis as well as Casella and Berger)
-
-- [Strang's MIT course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+## Econometrics
 
 - Gelman and Hill data analysis book (order from Amazon)
 
-- [Regression diagnostics](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)
-
 - 10 important econometrics theorems (great stuff!)
 
-- Awesome stats and ml model explainers (incl. great OLS linear algebra visualisation tool)
-
-- OLS basics and assumptions
-
-- Library of statistical techniques
+- [Regression diagnostics](https://github.com/erykml/medium_articles/blob/master/Statistics/linear_regression_assumptions.ipynb)
 
 
 ## Machine learning
@@ -159,11 +147,26 @@
 
 - [Classic linear algebra lectures by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
+- [Mathematical biostats bootcamp](https://www.coursera.org/learn/biostatistics) (highly recommended by Erin Shellman: 'Don’t spend too much of your time watching the lectures.  Instead test yourself with the quizzes and assignments and watch the videos in areas where you are weak.')
+
 
 ## Packages
+
+- [CausalPy](https://causalpy.readthedocs.io/en/latest/#) -- caual inference for quasi-experiments for Bayesian and frequentist approaches.
+
+- [EconML](https://econml.azurewebsites.net/spec/spec.html) -- uses ml approaches to estimate heterogeneous causal effects.
 
 - [Patsy for quick linear model estimation](https://patsy.readthedocs.io/en/latest/)
 
 - [fixest R and Python package for fast computations](https://cran.r-project.org/web/packages/fixest/index.html)
 
 - [Prophet](https://facebook.github.io/prophet/)
+
+
+## statistics
+
+- library of statistical techniques
+
+
+
+
