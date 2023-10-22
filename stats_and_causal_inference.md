@@ -1,9 +1,7 @@
-# Statistics and causal inference resources
+# Statistics, mathematics, and causal inference resources
 
 
 ## General resources
-
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown) -- awesome videos that provide a clear visual intuition behind math concepts, with excellent series on linear algebra and other topics.
 
 - [Stanford online](https://online.stanford.edu)
 
@@ -153,6 +151,13 @@
 - [Fast AI course - deep learning course](https://course.fast.ai/index.html)
 
 - [R2D3 - visual intro to ml](http://www.r2d3.us)
+
+
+## Mathematics
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) -- awesome videos that provide a clear visual intuition behind math concepts, with excellent series on linear algebra and other topics.
+
+- [Classic linear algebra lectures by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 
 ## Packages
