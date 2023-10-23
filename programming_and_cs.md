@@ -106,6 +106,13 @@
 - [Book](https://www.cl.cam.ac.uk/teaching/0910/UnixTools/make.pdf)
 
 
+## Management roles
+
+- [The Engineer/Manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+
+- [The manager's path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+
+
 ## Python programming
 
 - [Awesome Python - list of frameworks, libraries, resources](https://github.com/vinta/awesome-python)

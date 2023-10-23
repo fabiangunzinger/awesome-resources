@@ -116,7 +116,7 @@
 
 - [Machine learning done wrong](https://ml.posthaven.com/machine-learning-done-wrong)
 
-- [Ng Stanford course](https://www.coursera.org/learn/machine-learning) (Useful to build familiarity and intuition, which can be helpful in data science phone screens)
+- [Ng Stanford course](https://www.coursera.org/learn/machine-learning) 
 
 - [Deep Learning textbook by Ian Goodfellow et al.](https://www.deeplearningbook.org)
 
