@@ -45,6 +45,10 @@
 
 ## Experiments
 
+- [Ronny Kohavi Quaro page](https://www.quora.com/profile/Ronny-Kohavi)
+
+- [Experiment guide website -- companion website to Kohavi book](https://experimentguide.com) 
+
 - [Guidelines for A/B testing](https://hookedondata.org/guidelines-for-ab-testing/)
 
 - [So you need a statistically significant sample](http://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)
