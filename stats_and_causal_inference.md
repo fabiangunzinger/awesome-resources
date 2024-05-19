@@ -167,6 +167,11 @@
 - [Prophet](https://facebook.github.io/prophet/)
 
 
+## Power analysis 
+
+- [Power analysis for
+quasi-experiments](https://craftmediabucket.s3.amazonaws.com/uploads/EE_Power-Analysis_ENEv1.pdf)
+
 ## statistics
 
 - library of statistical techniques
