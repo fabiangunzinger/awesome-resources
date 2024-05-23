@@ -212,6 +212,12 @@
 - Intro to Probability book R simulations
 
 
+## Quarto
+
+- [Specify Latex parameters in Rmarkdown and
+Quarto](https://medium.com/@delucmat/specify-latex-parameters-in-r-markdown-9804467caaf)
+
+
 ## Regular expressions
 
 - [RexEgg](https://www.rexegg.com)
