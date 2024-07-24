@@ -167,6 +167,12 @@
 - [Prophet](https://facebook.github.io/prophet/)
 
 
+## Statistics
+
+- [Statistical ideas that changed the
+  world](https://ledaliang.github.io/journalclub/index.html -- Stanford PhD
+  stats 319)
+
 ## Power analysis 
 
 - [Power analysis for
