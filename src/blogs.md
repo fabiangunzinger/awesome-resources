@@ -1,9 +1,5 @@
 # Blogs and newsletters
 
-- [Spotify engineering](https://engineering.atspotify.com)
-
-- [Facebook data science research](https://research.fb.com/publications/)
-
 - [Marton Trencseni](https://bytepawn.com/tag/ab-testing.html) -- great material on A/B testing
 
 - [Lukas Vermeer](https://www.lukasvermeer.nl/publications/) -- great posts on A/B testing

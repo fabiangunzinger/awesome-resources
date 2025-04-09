@@ -38,10 +38,6 @@
 
 - [Alex Deng book](https://alexdeng.github.io/causal/)
 
-- [Causal Inference for the brave and true](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
-
-- [Causal inference what if](https://www.hsph.harvard.edu/wp-content/uploads/sites/1268/2023/02/hernanrobins_WhatIf_7feb23.pdf)
-
 
 ## Experiments
 

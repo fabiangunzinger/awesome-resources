@@ -1,4 +1,4 @@
-# Other useful lists of resources
+# Useful lists of resources
 
 - [awesome causal inference](https://github.com/matteocourthoud/awesome-causal-inference)
 
